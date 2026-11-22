@@ -61,3 +61,8 @@
     - Embedded Master Pipeline banner on Slide 1.
     - Explicitly detailed Inspection Gates: Format Check (SE vs Divergence), Safety Gating (HITL thresholding), Progress Check (Path Switching vs Final Step), Adoption/Critique Attenuation Gate (PropUQ-MAS), and Ragged Tensor Reconstruction Gate (MATU).
     - Fully updated top jump navigation dropdown and KaTeX math delimiters.
+
+## 2026-11-22 (GitHub Deployment)
+- **Action**: Successfully pushed repository to GitHub
+  - **Remote URL**: `https://github.com/Cocoslavelaz/llm_wiki.git`
+  - **Branch**: `main` (tracking `origin/main`)
